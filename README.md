@@ -8,6 +8,3 @@ create a secrets.py file with variables:
  password = 'your_password'
 ```
 
-please add more features to this, would be awesome to see what you can come up w
-
-cheers
